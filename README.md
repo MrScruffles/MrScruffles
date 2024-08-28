@@ -1,6 +1,6 @@
 # Hi there, I'm Ash <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://rhube.tumblr.com/post/706093449764618240/obsessed-with-this-cat-gif" />
 
 ## I am a CS student at the University of Charlotte (UNCC). I am passionate about software development and I am always looking for new opportunities to learn and grow. 
 
