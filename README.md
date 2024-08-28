@@ -1,6 +1,6 @@
 # Hi there, I'm Ash <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://64.media.tumblr.com/e642b66f8548fa1485621bd82d3eacc9/df8c8427627025f7-72/s640x960/af7dc108c6fd722e684f767aa7ad6b9f72f9d9c9.gifv" />
+<img align="right" alt="GIF" height="160px" src="https://media.discordapp.net/attachments/659492746502995979/1278481794097745960/maxwell-cat.gif?ex=66d0f674&is=66cfa4f4&hm=dcbd390725aca8b24aecbae3dd852eeab13f201e673c10212e3644105a311faa&=&width=720&height=482" />
 
 ## I am a CS student at the University of Charlotte (UNCC). I am passionate about software development and I am always looking for new opportunities to learn and grow. 
 
