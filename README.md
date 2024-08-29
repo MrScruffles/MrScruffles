@@ -1,4 +1,4 @@
-# Hi there, I'm Ash!/>
+# Hi there, I'm Ash!
 
 <img align="right" alt="GIF" height="160px" src="https://media.discordapp.net/attachments/659492746502995979/1278481794097745960/maxwell-cat.gif?ex=66d0f674&is=66cfa4f4&hm=dcbd390725aca8b24aecbae3dd852eeab13f201e673c10212e3644105a311faa&=&width=720&height=482" />
 
