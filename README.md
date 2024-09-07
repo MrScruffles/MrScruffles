@@ -18,6 +18,7 @@ I'm currently studying Computer Science at the University of Charlotte (UNCC). I
 
 ![mystats](https://github-readme-stats.vercel.app/api?username=MrScruffles&theme=algolia&include_all_commits=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrScruffles&layout=compact&theme=algolia)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrScruffles&theme=algolia)](https://git.io/streak-stats)
 
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
