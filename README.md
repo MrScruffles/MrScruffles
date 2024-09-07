@@ -15,9 +15,8 @@ I'm currently studying Computer Science at the University of Charlotte (UNCC). I
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashkan-zahabiuon/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ashz.org)
 
-
-![mystats](https://github-readme-stats.vercel.app/api?username=MrScruffles&theme=algolia&include_all_commits=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrScruffles&layout=compact&theme=algolia)
+![mystats](https://github-readme-stats.vercel.app/api?username=MrScruffles&theme=algolia&include_all_commits=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrScruffles&theme=algolia)](https://git.io/streak-stats)
 
 
