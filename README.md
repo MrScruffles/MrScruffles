@@ -16,7 +16,7 @@ I'm currently studying Computer Science at the University of Charlotte (UNCC). I
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ashz.org)
 
 
-![mystats](https://github-readme-stats.vercel.app/api?username=MrScruffles&theme=algolia&hide=stars,issues&include_all_commits=true)
+![mystats](https://github-readme-stats.vercel.app/api?username=MrScruffles&theme=algolia&include_all_commits=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrScruffles&layout=compact&theme=algolia)
 
 
