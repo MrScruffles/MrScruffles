@@ -18,7 +18,7 @@ I'm currently studying Computer Science at the University of Charlotte (UNCC). I
 
 [![mystats](https://github-readme-stats.vercel.app/api?username=MrScruffles&theme=algolia&hide=stars,issues)][mystats]
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrScruffles&layout=compact&theme=algolia&langs_count=4)][langs]
----
+
 
 <!-- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> -->
 
@@ -26,6 +26,5 @@ I'm currently studying Computer Science at the University of Charlotte (UNCC). I
 
 <!-- [![Apple Music](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu) -->
 
----
 
 <img src="https://imgur.com/rilHVxA.png"/>
