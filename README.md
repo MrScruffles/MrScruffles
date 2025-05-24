@@ -4,7 +4,7 @@
 ## About Me
 I'm a recent Computer Science graduate from the University of Charlotte (UNCC) with a degree in Computer Science & Computer Engineering and a concentration in Software, Systems and Networks.
 
-- Major: Computer Science & Computer Engineering (Graduate)
+- Bachelor Degree: Computer Science & Computer Engineering
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ashkan-zahabiuon/)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrScruffles/)
