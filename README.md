@@ -15,5 +15,3 @@ Currently, I’m continuing my journey as a **Master of Computer Science (MR) st
 
 ![langs](https://github-readme-stats-gamma-three-22.vercel.app/api/top-langs/?username=MrScruffles&layout=compact&theme=algolia&langs_count=10&card_width=350)
 ![GitHub Streak](https://github-readme-streak-stats-five-brown.vercel.app/?user=MrScruffles&theme=algolia)
-
-<img src="https://imgur.com/rilHVxA.png"/>
