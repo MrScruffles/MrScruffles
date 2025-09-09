@@ -3,7 +3,7 @@
 ## About Me
 I'm a recent Computer Science graduate from the University of Charlotte (UNCC) with a degree in Computer Science & Computer Engineering and a concentration in Software, Systems and Networks.  
 
-Currently, I’m continuing my journey as a **Master of Computer Science (MR) student at North Carolina State University (NCSU)**!
+Currently, I’m continuing my journey as a **Master of Computer Science student at North Carolina State University (NCSU)**!
 
 - Bachelor Degree: Computer Science & Computer Engineering (UNCC)
 - Master’s Program: Computer Science (NCSU)
