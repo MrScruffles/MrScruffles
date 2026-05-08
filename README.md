@@ -1,12 +1,10 @@
 # Hi there, I'm Ash!
 
 ## About Me
-I'm a recent Computer Science graduate from the University of Charlotte (UNCC) with a degree in Computer Science & Computer Engineering and a concentration in Software, Systems and Networks.  
+I'm a Computer Science graduate holding both a Bachelor's from the University of Charlotte (UNCC) in Computer Science & Computer Engineering with a concentration in Software, Systems and Networks, and a **Master of Computer Science from North Carolina State University (NCSU)**!
 
-Currently, I’m continuing my journey as a **Master of Computer Science student at North Carolina State University (NCSU)**!
-
-- Bachelor Degree: Computer Science & Computer Engineering (UNCC)
-- Master’s Program: Computer Science (NCSU)
+- Bachelor's Degree: Computer Science & Computer Engineering (UNCC)
+- Master's Degree: Computer Science (NCSU)
 - Feel free to reach out to me on LinkedIn or Email!
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrScruffles/)
