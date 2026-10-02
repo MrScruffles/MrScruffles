@@ -12,5 +12,4 @@ I'm a Computer Science graduate holding both a Bachelor's from the University of
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ashz.org)
 [![Website](https://img.shields.io/website?style=for-the-badge&label=ashz.org&url=https%3A%2F%2Fashz.org)](https://ashz.org/)
 
-![langs](https://github-readme-stats-gamma-three-22.vercel.app/api/top-langs/?username=MrScruffles&layout=compact&theme=algolia&langs_count=10&card_width=350)
 ![GitHub Streak](https://github-readme-streak-stats-five-brown.vercel.app/?user=MrScruffles&theme=algolia)
